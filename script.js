@@ -28,7 +28,7 @@ gitfunc(5,6)
 function featureGreeting(sivay){
          console.log(`om namah ${sivay}`);
 }
- featureGreeting("sivay");
+ featureGreeting("sivay prabhu");
 
 
 
