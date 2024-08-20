@@ -25,12 +25,18 @@ const gitfunc=(a,b)=>{
 gitfunc(5,6)
 
 
+
 function featureGreeting(sivay){
          console.log(`om namah ${sivay}`);
 }
  featureGreeting("sivay prabhu");
 
 
+
+function featureGreeting(){
+         console.log("radhe krishna");
+}
+ featureGreeting();
 
 
 
